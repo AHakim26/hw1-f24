@@ -7,7 +7,7 @@ body{
 
 /*Make the h1 heading bigger with a bold font*/
 h1{
-	font-size: 2em; 
+	font-size: 2em;
 	font-weight: bold;
 }
 
@@ -34,7 +34,7 @@ img{
 
 /*Make the h2 heading match h1*/
 h2{
-	font-size: 2em; 
+	font-size: 2em;
 	font-weight: bold;
 }
 
@@ -51,7 +51,7 @@ header, nav, main, footer{
 }
 
 
-/*Change the styling for all of the list 
+/*Change the styling for all of the list
 items in the nav section*/
 nav ul li{
 	background-color: #ECFF4D;
